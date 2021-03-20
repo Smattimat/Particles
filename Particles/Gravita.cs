@@ -22,6 +22,8 @@ namespace Particles
             return areaInfluenza;
         }
 
+
+        //Modifica in ramo Gravita
         public override void Operazione(List<Elemento> l)
         {
 
