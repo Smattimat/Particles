@@ -5,6 +5,7 @@
     <TargetFramework>net5.0-windows</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
     <StartupObject>Mondo.Program</StartupObject>
+    <ApplicationIcon>BlackHole.ico</ApplicationIcon>
   </PropertyGroup>
 
   <ItemGroup>
