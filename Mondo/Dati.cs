@@ -11,8 +11,7 @@ namespace Mondo {
 
 
         // Dati simulazione
-
-
         public List<Elemento> p = new List<Elemento>();
+
     }
 }
